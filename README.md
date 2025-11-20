@@ -6,4 +6,4 @@ This repository contains:
 
 2. New economic input files (crop portfolios for each policy shock)
 
-3. Example workflows for running hydro-economic scenarios
+3. Example workflows for running dynamic hydro-economic scenarios
