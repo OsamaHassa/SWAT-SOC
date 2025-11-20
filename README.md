@@ -4,6 +4,6 @@ This repository contains:
 
 1. Modified SWAT2012 Fortran source code
 
-2. New economic input files (crop portfolios for each policy shock)
+2. New economic input files (crop portfolio for each policy shock)
 
 3. Example workflows for running the dynamic hydro-economic scenarios
